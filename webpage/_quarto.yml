@@ -1,0 +1,27 @@
+project:
+  type: website
+  resources:
+    - jbrowse/
+    - multiqc/
+    
+website:
+  title: "CMV RNA-seq Analysis from Cheng 2017"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: multiqc.qmd
+        text: Quality Control
+      - href: jbrowse.qmd
+        text: Alignment Browser
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

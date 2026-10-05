@@ -1,0 +1,7 @@
+---
+title: "TB40/E RNA-Seq Results"
+---
+
+This is a website displaying data for the RNA-Seq experiment performed on TB40/E infected fibroblasts. 
+The original data can be found in the [GEO database](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE99823) under accession number GSE99823. 
+It was originally described in a preprint by [Cheng et al., 2017](http://www.pnas.org/cgi/doi/10.1073/pnas.1710522114). 
